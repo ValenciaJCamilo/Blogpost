@@ -50,18 +50,10 @@
     }
 
     .home-main-text{
-        font-size: 2rem;
-        text-align: center;
+        font-size: 2.6rem;
     }
-    
     .home-main section{
-        display: grid;
-        grid-column: 2;
-        justify-items: center;
+        height: 90%;
         margin-top: auto;
     }
-    .home-main{
-        background-size: cover;
-    }
-
 }
