@@ -43,8 +43,25 @@
 }
 
 
+
 @media (max-width: 600px) {
     .blogs-posts-container .post-container {
         max-width: 95%;
     }
+
+    .home-main-text{
+        font-size: 2rem;
+        text-align: center;
+    }
+    
+    .home-main section{
+        display: grid;
+        grid-column: 2;
+        justify-items: center;
+        margin-top: auto;
+    }
+    .home-main{
+        background-size: cover;
+    }
+
 }
